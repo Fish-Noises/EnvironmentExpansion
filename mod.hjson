@@ -1,0 +1,8 @@
+name: EnvironmentExpansion
+displayName: Environment Expansion
+author: "[red]Fish[]-[orange]Noises[]"
+description: A massive set of tiles and colours for the Mindustry map designer.
+version: "0.3a"
+minGameVersion: "123.1"
+dependencies: []
+hidden:false
