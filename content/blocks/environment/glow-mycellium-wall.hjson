@@ -1,0 +1,6 @@
+type: StaticWall
+name: Glow Mycellium Wall
+breakable: false
+alwaysReplace: false
+solid: true
+variants: 2

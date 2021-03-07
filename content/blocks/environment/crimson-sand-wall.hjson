@@ -1,0 +1,6 @@
+type: StaticWall
+name: Crimson Sand Wall
+breakable: false
+alwaysReplace: false
+solid: true
+variants: 2
