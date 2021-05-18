@@ -1,0 +1,4 @@
+type: Floor
+name: Jungle Understory
+variants: 2
+attributes: {water:0.3}

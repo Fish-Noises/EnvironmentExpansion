@@ -2,3 +2,5 @@ type: Floor
 name: Sea Floor
 itemDrop: sand
 variants: 3
+playerUnmineable: true
+attributes: {oil:0.5,water:0.5}

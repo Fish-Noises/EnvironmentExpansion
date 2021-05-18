@@ -1,3 +1,4 @@
 type: Floor
 name: Glow Moss
 variants: 2
+attributes: {spores:0.5}

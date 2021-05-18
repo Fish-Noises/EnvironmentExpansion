@@ -1,0 +1,6 @@
+type: StaticWall
+name: Jungle Foliage
+breakable: false
+alwaysReplace: false
+solid: true
+variants: 2

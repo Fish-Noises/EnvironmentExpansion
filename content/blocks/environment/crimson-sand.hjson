@@ -1,5 +1,6 @@
 type: Floor
 name: Crimson Sand
 itemDrop: sand
-playerUnmineable = true
 variants: 3
+playerUnmineable: true
+attributes: {oil:1}

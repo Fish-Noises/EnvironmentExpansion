@@ -1,3 +1,4 @@
 type: Floor
 name: Glow Mycellium
 variants: 3
+attributes: {spores:0.15}
