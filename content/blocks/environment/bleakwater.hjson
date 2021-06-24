@@ -1,0 +1,11 @@
+type: Floor
+name: Bleak Water
+variants: 1
+speedMultiplier: 0.8
+liquidDrop: water
+isLiquid: true
+liquidMultiplier: 1.1
+cacheLayer: water
+status: freezing
+statusDuration: 60
+albedo: 0.3
