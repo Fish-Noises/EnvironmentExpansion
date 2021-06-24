@@ -2,3 +2,6 @@ type: Floor
 name: Glow Moss
 variants: 2
 attributes: {spores:0.5}
+emitLight:true
+lightRadius:15
+lightColor:734cff99
